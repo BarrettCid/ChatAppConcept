@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Chat] (Schema)
+       [Chat].[Server] (Table)
+       [Chat].[Channel] (Table)
+       [Chat].[ChannelMessage] (Table)
+       [Chat].[Message] (Table)
+       [Chat].[UserServer] (Table)
+       [Chat].[ServerChannel] (Table)
+       [Chat].[FK_ServerChannel_Server] (Foreign Key)
+       [Chat].[FK_ServerChannel_Channel] (Foreign Key)
+
+** Supporting actions

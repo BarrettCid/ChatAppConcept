@@ -1,0 +1,15 @@
+D:\Development\ChatPrototype\Mappers\bin\Debug\net6.0\ChatAppMappers.deps.json
+D:\Development\ChatPrototype\Mappers\bin\Debug\net6.0\ChatAppMappers.dll
+D:\Development\ChatPrototype\Mappers\bin\Debug\net6.0\ChatAppMappers.pdb
+D:\Development\ChatPrototype\Mappers\bin\Debug\net6.0\ChatAppContext.dll
+D:\Development\ChatPrototype\Mappers\bin\Debug\net6.0\ChatAppContext.pdb
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.csproj.AssemblyReference.cache
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.AssemblyInfoInputs.cache
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.AssemblyInfo.cs
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.csproj.CoreCompileInputs.cache
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.csproj.CopyComplete
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.dll
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\refint\ChatAppMappers.dll
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ChatAppMappers.pdb
+D:\Development\ChatPrototype\Mappers\obj\Debug\net6.0\ref\ChatAppMappers.dll

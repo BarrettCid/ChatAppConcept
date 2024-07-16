@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [Chat].[ServerChannel]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [Chat].[ServerChannel].[ServerChannelId] is being dropped, data loss could occur.
+
+** User actions
+     Recreate table
+       [Chat].[ServerChannel] (Table)
+
+** Supporting actions
+     Drop
+       [Chat].[FK_ServerChannel_Server] (Foreign Key)
+       [Chat].[FK_ServerChannel_Channel] (Foreign Key)
+     Create
+       [Chat].[FK_ServerChannel_Server] (Foreign Key)
+       [Chat].[FK_ServerChannel_Channel] (Foreign Key)
+
+The column [Chat].[ServerChannel].[ServerChannelId] is being dropped, data loss could occur.
+

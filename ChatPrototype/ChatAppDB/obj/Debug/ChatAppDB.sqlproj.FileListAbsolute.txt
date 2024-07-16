@@ -1,0 +1,10 @@
+D:\Development\ChatPrototype\ChatAppDB\bin\Debug\ChatAppDB.dacpac
+D:\Development\ChatPrototype\ChatAppDB\bin\Debug\ChatAppDB.dll
+D:\Development\ChatPrototype\ChatAppDB\bin\Debug\ChatAppDB.pdb
+D:\Development\ChatPrototype\ChatAppDB\obj\Debug\ChatAppDB.sqlproj.AssemblyReference.cache
+D:\Development\ChatPrototype\ChatAppDB\obj\Debug\ChatAppDB.dll
+D:\Development\ChatPrototype\ChatAppDB\obj\Debug\ChatAppDB.pdb
+D:\Development\ChatPrototype\ChatAppDB\obj\Debug\Model.xml
+D:\Development\ChatPrototype\ChatAppDB\obj\Debug\refactor.xml
+D:\Development\ChatPrototype\ChatAppDB\obj\Debug\postdeploy.sql
+D:\Development\ChatPrototype\ChatAppDB\obj\Debug\predeploy.sql

@@ -1,0 +1,16 @@
+#error-body {
+    text-align: left;
+    background-color: #dad6d6;
+    color: #000000;
+    position: absolute;
+    padding-left: 10;
+    padding-top: 10;
+}
+#error-confirmation {
+    background-color: rgb(39, 70, 247);
+    color: #FFF;
+    margin: top 500px;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+}

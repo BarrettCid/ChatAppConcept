@@ -1,0 +1,31 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [Chat].[ServerChannel]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The table [Chat].[Message] is being dropped and re-created since all non-computed columns within the table have been
+         redefined.
+
+** User actions
+     Drop
+       [Chat].[Message] (Table)
+     Create
+       [Chat].[Message] (Table)
+       [Chat].[FK_Message_Channel] (Foreign Key)
+       [Chat].[FK_Message_User] (Foreign Key)
+     Recreate table
+       [Chat].[ServerChannel] (Table)
+
+** Supporting actions
+     Drop
+       [Chat].[FK_ServerChannel_Server] (Foreign Key)
+       [Chat].[FK_ServerChannel_Channel] (Foreign Key)
+     Create
+       [Chat].[FK_ServerChannel_Server] (Foreign Key)
+       [Chat].[FK_ServerChannel_Channel] (Foreign Key)
+
+The table [Chat].[Message] is being dropped and re-created since all non-computed columns within the table have been redefined.
+

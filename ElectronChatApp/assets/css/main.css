@@ -1,0 +1,104 @@
+.form-group {
+    padding-bottom: 10;
+}
+#login-form {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100;
+    width: 50%;
+}
+#app-description{
+    padding-left:30px;
+}
+#tech-list{
+    list-style-type: none;
+}
+#login-wrap {
+    width:100%; 
+    height:100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color: #333232;
+    color:white;
+}
+#main-wrap {
+    width:100%; 
+    height:100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333232;
+    color:white;
+}
+#server-sidebar {
+    background-color: rgb(33 37 41 / 75%);
+    float:left; 
+    width: 5rem;
+    height: 100%;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+#server-sidebar::-webkit-scrollbar {
+    display: none;
+}
+#channel-bar {
+    background-color: rgba(44, 48, 53, 0.75);
+    float:left; 
+    width: 6rem;
+    height: 100%;
+    overflow: scroll;
+    overflow-x: hidden;
+    padding-left: 20;
+    padding-top: 20;
+    padding-right: 20;
+    list-style-type: none;
+    #channel-list{
+        a {
+            text-decoration: none;
+        }
+    }
+}
+#channel-bar::-webkit-scrollbar {
+    display: none;
+  }
+#logout_sidebar_button {
+    position: absolute;
+    bottom: 0;
+}
+#chat-container {
+    float:left;
+    min-width: 80%;
+}
+#message-window {
+    overflow: scroll;
+    overflow-x: hidden;
+    height: 95%;
+    width: 100%;
+    min-width: 100%;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+#message-window::-webkit-scrollbar {
+    display: none;
+}
+#messageToSubmit {
+    margin-left: 50px;
+    width: 75%;
+    min-width: 75%;
+}
+#send-message-button {
+    float:right;
+}
+#username-div {
+    float: left;
+}
+#time-div{
+    float: right;
+    padding-right: 40px;
+}
+#message-box{
+    width: 100%;
+    
+}

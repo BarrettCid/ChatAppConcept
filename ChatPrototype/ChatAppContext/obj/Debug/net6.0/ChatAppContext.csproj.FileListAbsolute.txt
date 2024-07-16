@@ -1,0 +1,14 @@
+D:\Development\ChatPrototype\ChatAppContext\bin\Debug\net6.0\ChatAppContext.deps.json
+D:\Development\ChatPrototype\ChatAppContext\bin\Debug\net6.0\ChatAppContext.runtimeconfig.json
+D:\Development\ChatPrototype\ChatAppContext\bin\Debug\net6.0\ChatAppContext.dll
+D:\Development\ChatPrototype\ChatAppContext\bin\Debug\net6.0\ChatAppContext.pdb
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.csproj.AssemblyReference.cache
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.AssemblyInfoInputs.cache
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.AssemblyInfo.cs
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.csproj.CoreCompileInputs.cache
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.dll
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\refint\ChatAppContext.dll
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.pdb
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ChatAppContext.genruntimeconfig.cache
+D:\Development\ChatPrototype\ChatAppContext\obj\Debug\net6.0\ref\ChatAppContext.dll

@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The table [Chat].[UserServer] is being dropped and re-created since all non-computed columns within the table have been
+         redefined.
+
+** User actions
+     Drop
+       [Chat].[UserServer] (Table)
+     Create
+       [Chat].[UserServer] (Table)
+       [Chat].[FK_UserServer_User] (Foreign Key)
+       [Chat].[FK_UserServer_Server] (Foreign Key)
+
+** Supporting actions
+
+The table [Chat].[UserServer] is being dropped and re-created since all non-computed columns within the table have been redefined.
+

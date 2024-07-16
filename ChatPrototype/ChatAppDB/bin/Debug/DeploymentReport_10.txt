@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [Chat].[UserServer]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [Chat].[UserServer] (Table)
+
+** Supporting actions
+     Drop
+       [Chat].[FK_UserServer_User] (Foreign Key)
+       [Chat].[FK_UserServer_Server] (Foreign Key)
+     Create
+       [Chat].[FK_UserServer_User] (Foreign Key)
+       [Chat].[FK_UserServer_Server] (Foreign Key)
